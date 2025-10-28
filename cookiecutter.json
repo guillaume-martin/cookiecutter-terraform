@@ -1,0 +1,4 @@
+{
+    "module_name": "",
+    "module_slug": "{{ cookiecutter.module_name.lower().replace(' ', '_') }}"
+}
